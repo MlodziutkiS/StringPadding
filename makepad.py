@@ -1,4 +1,3 @@
-##leftpad with loop
 def makepad(string, totalspace, left=True, padder=chr(0)):
     ##(String to resize, what size to resize to, add chars on the left?, what string to use as padding default: null)
     output=""
