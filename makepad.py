@@ -1,6 +1,6 @@
 ##leftpad with loop
-def makepad(string, totalspace, left=True, character=chr(0)):
-    ##(String to resize, what size to resize to, add chars on the left?, what char to use default: null)
+def makepad(string, totalspace, left=True, padder=chr(0)):
+    ##(String to resize, what size to resize to, add chars on the left?, what string to use as padding default: null)
     output=""
     if totalspace-len(string)>0:
         totalspace-=len(string)
