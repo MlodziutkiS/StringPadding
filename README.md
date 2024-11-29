@@ -1,2 +1,2 @@
 # StringPadding
-if u have no idea how to write this dont call yourself a programer
+ok now you dont really need this do you?
